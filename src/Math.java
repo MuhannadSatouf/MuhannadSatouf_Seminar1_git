@@ -8,7 +8,7 @@ public class Math {
         int sub = first - second *2;
         sub = (sub)/2;
         System.out.println(sub);
-        
+        System.out.println(sub);
         return sub;
 
     
